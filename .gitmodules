@@ -1,0 +1,3 @@
+[submodule "calculator-simple"]
+	path = calculator-simple
+	url = https://github.com/kaftanenko/edu.apps.calculator-simple.git
