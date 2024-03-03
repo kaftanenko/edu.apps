@@ -1,6 +1,6 @@
 [submodule "calculator-simple"]
 	path = calculator-simple
-	url = https://github.com/kaftanenko/edu.apps.calculator-simple.git
+	url = git@github.com:kaftanenko/edu.apps.calculator-simple.git
 [submodule "shopping-list"]
 	path = shopping-list
-	url = https://github.com/kaftanenko/edu.apps.shopping-list.git
+	url = git@github.com:kaftanenko/edu.apps.shopping-list.git
